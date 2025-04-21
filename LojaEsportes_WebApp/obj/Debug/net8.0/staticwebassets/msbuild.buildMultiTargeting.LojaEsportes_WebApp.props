@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LojaEsportes_WebApp.props" />
+</Project>
