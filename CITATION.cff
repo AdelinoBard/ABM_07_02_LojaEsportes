@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: >-
+  Se você utilizar este projeto em suas pesquisas ou estudos, por favor cite-o da seguinte forma:
+  
+authors:
+  - given-names: "Adelino"
+    family-names: "Bard"
+title: "LojaEsportes_WebApp"
+abstract: "E-commerce desenvolvido com ASP.NET Core 8, baseado no capítulo 8 do livro Pro ASP.NET Core 6 de Adam Freeman."
+version: "1.0.0"
+repository-code: "https://github.com/AdelinoBard/ABM_07_02_LojaEsportes"
+date-released: "2025-04-21"
+license: "© The Author(s), sob licença exclusiva da APress Media, LLC, parte da Springer Nature 2022."
+authors-references:
+  - given-names: "Adam"
+    family-names: "Freeman"
+    title: "Pro ASP.NET Core 6"
+    publisher: "APress Media, LLC"
+    doi: "10.1007/978-1-4842-7957-1_7"
+    year: "2022"
+    url: "https://doi.org/10.1007/978-1-4842-7957-1_7"
+keywords:
+  - "ASP.NET Core"
+  - "Entity Framework Core"
+  - "E-commerce"
+  - "SQL Server"
+  - "Bootstrap"
